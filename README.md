@@ -12,8 +12,8 @@ This project is a Learning Management System built with React.js for the fronten
 
 - **Database:**
   - MySQL
-  - Tables: course, learning, progress, discussion, feedback, question, user, assessment ...
-
+  
+  ORM/JPA/HIBERNATE
 ## Setup
 
  Navigate to the frontend and backend folders.
