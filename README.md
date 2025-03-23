@@ -18,7 +18,7 @@ This project is a Learning Management System built with React.js for the fronten
 
  Navigate to the frontend and backend folders.
 
- Run the frontend (React.js) on http://localhost:3000 (#npm run dev) 
+ Run the frontend (React.js) on http://localhost:3000  
  Run the backend (Java Spring Boot) on http://localhost:8080. (Glassfish or Tomcate server)
 
  Set up the MySQL database and configure the connection.
