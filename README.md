@@ -1,5 +1,5 @@
 # Learning Management System
-This project is a Learning Management System built with React.js for the frontend, Spring Boot for the backend, and MySQL as the database.
+This project is a Learning Management System built with React.js for the frontend, Spring Boot for the backend, and MySQL as the database. I used UML for modeling.
 
 ## Technologies
   **Frontend:**
