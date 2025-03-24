@@ -2,18 +2,18 @@
 This project is a Learning Management System built with React.js for the frontend, Spring Boot for the backend, and MySQL as the database.
 
 ## Technologies
-- **Frontend:**
-  - React.js
-  - Styled with CSS
+  **Frontend:**
+   React.js
+   Styled with CSS
 
-- **Backend:**
-  - Spring Boot
-  - RESTful API architecture ()
+  **Backend:**
+   Spring Boot
+   RESTful API architecture
 
-- **Database:**
-  - MySQL
+**Database:**
+   MySQL
   
-  ORM/JPA/HIBERNATE
+  ORM/JPA/HIBERNATE/SpringSecurity/JWT/Aauth2/SpringCloud
 ## Setup
 
  Navigate to the frontend and backend folders.
